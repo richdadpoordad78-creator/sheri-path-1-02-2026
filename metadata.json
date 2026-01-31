@@ -1,0 +1,7 @@
+{
+  "name": "Sheri Salon TX - Premium Beauty & Aesthetics",
+  "description": "A modern, premium React application for Sheri Salon TX, featuring precision hair, skincare, Botox, and permanent makeup services with an integrated booking system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
